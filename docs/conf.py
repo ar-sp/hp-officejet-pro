@@ -1,4 +1,4 @@
-project = 'hp officejet pro'
+project = 'HP Officejet Pro'
 author = 'Your Name'
 release = '1.0'
 
